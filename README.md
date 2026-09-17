@@ -10,6 +10,8 @@
 # Test code
 Set environment variable ```ANTLR_JAR``` to the file ```antlr-4.9.2-complete.jar``` in your computer.
 
+First, change the directory to intial/src:
+
 ```
 cd initial/src
 python run.py gen
